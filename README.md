@@ -4,12 +4,12 @@
 
 ###Installation:
 ~~~
-yarn add HebrewNLP
+yarn add hebrew-nlp
 ~~~
 
 Example:  
 ~~~
-const HebrewNLP = require('HebrewNLP');
+const HebrewNLP = require('hebrew-nlp');
 const result = HebrewNLP.normalize('שלום');
 console.log(result);
 ~~~

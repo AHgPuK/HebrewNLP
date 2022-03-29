@@ -1,5 +1,5 @@
 {
-  "name": "HebrewNLP",
+  "name": "hebrew-nlp",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
